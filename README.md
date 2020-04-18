@@ -1,6 +1,6 @@
-# altecweb-frontend
+# BI Dashboard
 
-> Projeto de frontend para Altec
+> Projeto de frontend de uma dashboard de BI com relatórios
 
 ## Build Setup
 
