@@ -1,0 +1,44 @@
+{
+  "login": {
+    "token": "123456",
+    "refresh_token": "098765",
+    "scopes": {
+      "accessList": ["Branch 1", "Branch 2", "Branch 3"],
+      "branch": [
+        {
+          "id": 1,
+          "fantasy_name": "Loja 1"
+        },
+        {
+          "id": 2,
+          "fantasy_name": "Loja 2"
+        },
+        {
+          "id": 3,
+          "fantasy_name": "Loja 3"
+        }
+      ]
+    }
+  },
+  "refresh": {
+    "token": "123456",
+    "refresh_token": "098765",
+    "scopes": {
+      "accessList": ["Branch 1", "Branch 2", "Branch 3"],
+      "branch": [
+        {
+          "id": 1,
+          "fantasy_name": "Loja 1"
+        },
+        {
+          "id": 2,
+          "fantasy_name": "Loja 2"
+        },
+        {
+          "id": 3,
+          "fantasy_name": "Loja 3"
+        }
+      ]
+    }
+  }
+}
