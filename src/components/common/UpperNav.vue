@@ -106,7 +106,7 @@ export default {
       }
     })
 
-    document.title = 'Altec Relatórios'
+    document.title = 'Your Company Relatórios'
   },
   computed: {
     showReportFilter: function () {
