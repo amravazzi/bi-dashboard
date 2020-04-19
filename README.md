@@ -2,6 +2,10 @@
 
 > Projeto de frontend de uma dashboard de BI com relatórios
 
+## Exemplo funcional
+
+Você pode testar e ver a implementação [aqui](https://optimistic-lewin-68a974.netlify.app/). Não há dados ainda para popular os gráficos e tabelas.
+
 ## Build Setup
 
 ``` bash
