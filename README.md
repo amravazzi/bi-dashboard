@@ -4,7 +4,7 @@
 
 ## Exemplo funcional
 
-Você pode testar e ver a implementação [aqui](https://optimistic-lewin-68a974.netlify.app/). Não há dados ainda para popular os gráficos e tabelas. Use `user@example.com` como emails e `password` como senha.
+Você pode testar e ver a implementação [aqui](https://bi-dashboard-68a974.netlify.app). Não há dados ainda para popular os gráficos e tabelas. Use `user@example.com` como emails e `password` como senha.
 
 ## Build Setup
 
