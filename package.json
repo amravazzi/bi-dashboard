@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bootstrap-table": "1.11.2",
-    "jquery": "3.2.1",
+    "jquery": "3.5.0",
     "material-design-icons-iconfont": "3.0.3",
     "object-path": "0.11.4",
     "v-mask": "1.1.1",
@@ -66,7 +66,7 @@
     "html-webpack-plugin": "2.28.0",
     "http-proxy-middleware": "0.17.3",
     "inject-loader": "2.0.1",
-    "jquery": "3.2.1",
+    "jquery": "3.5.0",
     "lodash": "4.17.4",
     "lolex": "1.5.2",
     "node-sass": "4.5.2",
