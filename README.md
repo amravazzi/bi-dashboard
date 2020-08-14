@@ -1,10 +1,10 @@
 # BI Dashboard
 
-> Projeto de frontend de uma dashboard de BI com relatórios
+> Frontend project of a BI dashboard with reports
 
 ## Exemplo funcional
 
-Você pode testar e ver a implementação [aqui](https://bi-dashboard-68a974.netlify.app). Não há dados ainda para popular os gráficos e tabelas. Use `user@example.com` como emails e `password` como senha.
+You can test and check the implementation `[here](https://bi-dashboard-68a974.netlify.app)`. There are no data yet to populate the graphs and tables. Use `user@example.com` as email and `password` as password.
 
 ## Build Setup
 
@@ -21,5 +21,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
