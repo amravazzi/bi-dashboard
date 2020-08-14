@@ -1,6 +1,6 @@
 # BI Dashboard
 
-> Frontend project of a BI dashboard with reports
+> Frontend project of a BI dashboard with reports using Vue 2.
 
 ## Exemplo funcional
 
