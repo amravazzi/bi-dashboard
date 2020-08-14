@@ -4,7 +4,7 @@
 
 ## Exemplo funcional
 
-You can test and check the implementation `[here](https://bi-dashboard-68a974.netlify.app)`. There are no data yet to populate the graphs and tables. Use `user@example.com` as email and `password` as password.
+You can test and check the implementation [here](https://bi-dashboard-68a974.netlify.app). There are no data yet to populate the graphs and tables. Use `user@example.com` as email and `password` as password.
 
 ## Build Setup
 
