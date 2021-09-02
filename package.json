@@ -15,7 +15,7 @@
     "bootstrap-table": "1.11.2",
     "jquery": "3.2.1",
     "material-design-icons-iconfont": "3.0.3",
-    "object-path": "0.11.4",
+    "object-path": "0.11.6",
     "v-mask": "1.1.1",
     "vue": "2.2.2",
     "vue-good-table": "1.5.2",
